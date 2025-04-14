@@ -17,25 +17,25 @@ const AboutPage: React.FC = () => {
                     </div> 
                     
                     <div className="team-card">
-                        <img src="https://asset.cloudinary.com/dmdq2yizi/729a9097acfdf2752784848f352c1f3f" alt="Dattu" />
+                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650955/RGF0dHVfeXlrcXZy/drilldown" alt="Dattu" />
 
                         <h3>Dattu</h3>
                         <p>Product Manager</p>
                     </div>
                     <div className="team-card">
-                        <img src="https://asset.cloudinary.com/dmdq2yizi/74be0d964d9591950f2d2fd24d244f73" alt="Mallika" />
+                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650956/TWFsbGlfbXRtcGNn/drilldown" alt="Mallika" />
 
                         <h3>Mallika</h3>
                         <p>Developer</p>
                     </div>
                     <div className="team-card">
-                        <img src="https://asset.cloudinary.com/dmdq2yizi/dc2f476f564935a266c93f4645bf7257" alt="Rajya Lakshmi" />
+                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650951/UmFqeWFfZXFzbmJx/drilldown" alt="Rajya Lakshmi" />
 
                         <h3>Rajya Lakshmi</h3>
                         <p>Developer</p>
                     </div>
                     <div className="team-card">
-                        <img src="https://asset.cloudinary.com/dmdq2yizi/be8d7665e4a5e2413c015a720c832b9b" alt="Nikhila" />
+                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650956/TmlraGlfbW5hNG5y/drilldown" alt="Nikhila" />
 
                         <h3>Nikhila</h3>
                         <p>Developer</p>
