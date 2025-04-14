@@ -1,0 +1,179 @@
+/* Importing Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Montserrat:wght@400;700&family=Lora:ital,wght@1,500&display=swap');
+
+/* General Page Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-image: url('/assets/hero-background.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.hero h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    font-weight: 700;
+    color: #222;
+}
+
+.hero p {
+    font-family: 'Lora', serif;
+    font-size: 1.6rem;
+    opacity: 0.9;
+    font-weight: 500;
+    color: #444;
+}
+
+.hero-btn {
+    margin-top: 20px;
+    padding: 15px 40px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 8px;
+    background-color: #d32f2f;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: 600;
+}
+
+.hero-btn:hover {
+    background-color: #b71c1c;
+    transform: scale(1.1);
+}
+
+/* About Section */
+.about {
+    padding: 50px 30px;
+    max-width: 900px;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+
+.about h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: palevioletred;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.about p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+/* Team Section */
+.team {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #f8f8f8;
+
+}
+
+.team h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: purple;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.team-members {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.team-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    
+    width: 400px;
+    
+}
+
+.team-card img {
+    width: 350px;
+    /* height: auto; */
+    border-radius: 8px;
+    height: 500px;
+}
+
+.team-card h3 {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.team-card p {
+    font-family: 'Lora', serif;
+    font-size: 1.2rem;
+    color: #666;
+}
+
+/* Testimonial Section */
+.testimonial {
+    text-align: center;
+    margin: 40px auto;
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    padding: 30px;
+    background-color: #f4f4f4;
+    border-left: 5px solid #d32f2f;
+    max-width: 800px;
+}
+
+/* CTA Section */
+.cta {
+    text-align: center;
+    margin: 40px auto;
+}
+
+.cta button {
+    background-color: #d32f2f;
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cta button:hover {
+    background-color: #b71c1c;
+    transform: scale(1.05);
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
