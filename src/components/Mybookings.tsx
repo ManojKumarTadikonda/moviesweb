@@ -8,8 +8,7 @@ interface Booking {
   screenName: string;
   selectedDate: string;
   showTime: string;
-  seatPosition: string[];
-  imageName?: string; // optional property to decide the image
+  seatPosition: string[];// optional property to decide the image
 }
 
 const MyBookingsPage = () => {
@@ -74,11 +73,11 @@ const MyBookingsPage = () => {
               // Decide the image source based on booking.imageName
               let imageSrc = "";
 
-              if (booking.imageName === "Salaar") {
+              if (booking.movieName === "Salaar") {
                 imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650956/U2FsYWFyX3gxdG85MA==/drilldown";
-              } else if (booking.imageName === "Puspha") {
+              } else if (booking.movieName === "Puspha") {
                 imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651687/UHVzaHBhMl9pYm5id3E=/drilldown";
-              } else if (booking.imageName === "Kalki") {
+              } else if (booking.movieName === "Kalki") {
                 imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651688/a2Fsa2lfcXk5M3Np/drilldown";
               } else {
                 // fallback image if none of the conditions match
