@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Pushpa",
     "duration": "3 Hr 40min",
-    "image": "src/assets/pushpa2.jpeg",
+    "image": "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651687/UHVzaHBhMl9pYm5id3E=/drilldown",
     "description": "The continuation of Pushpa Raj's journey in the dangerous world of red sandalwood smuggling.",
     "rating": 4.8,
     "reviews": [
@@ -15,7 +15,7 @@
     "id": "2",
     "title": "Salaar",
     "duration": "2 Hr 50min",
-    "image": "src/assets/salaar.jpg",
+    "image": "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650956/U2FsYWFyX3gxdG85MA==/drilldown",
     "description": "Prabhas takes on the role of a mysterious rebel in this high-octane action movie.",
     "rating": 4.9,
     "reviews": [
@@ -27,7 +27,7 @@
     "id": "3",
     "title": "Kalki",
     "duration": "2 Hr 58min",
-    "image": "src/assets/Kalki.jpg",
+    "image": "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651688/a2Fsa2lfcXk5M3Np/drilldown",
     "description": "An epic drama showcasing the story of Kalki, a modern-day warrior with a gripping backstory.",
     "rating": 4.7,
     "reviews": [
@@ -39,7 +39,7 @@
     "id": "4",
     "title": "Devara",
     "duration": "2 Hr 49min",
-    "image": "src/assets/Devara.jpg",
+    "image": "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650952/RGV2YXJhX3pveXBycA==/drilldown",
     "description": "An emotional journey of revenge, redemption, and resilience.",
     "rating": 4.6,
     "reviews": [
