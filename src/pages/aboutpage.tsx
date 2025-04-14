@@ -10,7 +10,7 @@ const AboutPage: React.FC = () => {
                 <h2>Meet Our Team 🚀</h2>
                 <div className="team-members">
                 <div className="team-card" >
-                        <img src="https://asset.cloudinary.com/dmdq2yizi/fafe99cd24dc03848b0f52ab102e34b0" alt="Manoj" />
+                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650948/TWFub2pfaXBid3po/drilldown" alt="Manoj" />
 
                         <h3>Manoj</h3>
                         <p>Scrum Master</p>
