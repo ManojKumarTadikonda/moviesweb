@@ -3,7 +3,7 @@ import { Play, Heart, X } from 'lucide-react';
 import { Link } from 'react-router-dom'; // Import Link for navigation
 import salaar from '../assets/Salaar.jpg';
 import pushpa2 from '../assets/Pushpa2.jpeg';
-import kalki from '../assets/Kalki.jpg';
+import kalki from '../assets/kalki.jpg';
 import DevaraImage from '../assets/Devara.jpg';
 
 const movies = [
