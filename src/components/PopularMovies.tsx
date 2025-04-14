@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Play, Heart, X } from 'lucide-react';
 import { Link } from 'react-router-dom'; // Import Link for navigation
 import salaar from '../assets/Salaar.jpg';
-import pushpa2 from '../assets/pushpa2.jpeg';
+import pushpa2 from '../assets/Pushpa2.jpeg';
 import kalki from '../assets/Kalki.jpg';
 import DevaraImage from '../assets/Devara.jpg';
 
