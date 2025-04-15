@@ -3,10 +3,11 @@ import { OrbitControls, useGLTF, Environment, Stage } from '@react-three/drei';
 
 function Model() {
   const modelUrl = "https://raw.githubusercontent.com/ManojKumarTadikonda/3dmodel/main/Bigscreen.glb";
+  console.log("Loading model from:", modelUrl); // Move the log here
   const { scene } = useGLTF(modelUrl);
   return <primitive object={scene} />;
 }
-console.log("Loading model from:", modelUrl);
+
 export default function ModelViewer() {
   return (
     <div className="w-full h-screen">
