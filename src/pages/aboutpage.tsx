@@ -10,32 +10,32 @@ const AboutPage: React.FC = () => {
                 <h2>Meet Our Team 🚀</h2>
                 <div className="team-members">
                 <div className="team-card" >
-                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650948/TWFub2pfaXBid3po/drilldown" alt="Manoj" />
+                        <img src="https://res.cloudinary.com/dmdq2yizi/image/upload/v1744650948/Manoj_ipbwzh.jpg" alt="Manoj" />
 
                         <h3>Manoj</h3>
                         <p>Scrum Master</p>
                     </div> 
                     
                     <div className="team-card">
-                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650955/RGF0dHVfeXlrcXZy/drilldown" alt="Dattu" />
+                        <img src="https://res.cloudinary.com/dmdq2yizi/image/upload/v1744650955/Dattu_yykqvr.jpg" alt="Dattu" />
 
                         <h3>Dattu</h3>
                         <p>Product Manager</p>
                     </div>
                     <div className="team-card">
-                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650956/TWFsbGlfbXRtcGNn/drilldown" alt="Mallika" />
+                        <img src="https://res.cloudinary.com/dmdq2yizi/image/upload/v1744650956/Malli_mtmpcg.jpg" alt="Mallika" />
 
                         <h3>Mallika</h3>
                         <p>Developer</p>
                     </div>
                     <div className="team-card">
-                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650951/UmFqeWFfZXFzbmJx/drilldown" alt="Rajya Lakshmi" />
+                        <img src="https://res.cloudinary.com/dmdq2yizi/image/upload/v1744650951/Rajya_eqsnbq.jpg" alt="Rajya Lakshmi" />
 
                         <h3>Rajya Lakshmi</h3>
                         <p>Developer</p>
                     </div>
                     <div className="team-card">
-                        <img src="https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650956/TmlraGlfbW5hNG5y/drilldown" alt="Nikhila" />
+                        <img src="https://res.cloudinary.com/dmdq2yizi/image/upload/v1744650956/Nikhi_mna4nr.jpg" alt="Nikhila" />
 
                         <h3>Nikhila</h3>
                         <p>Developer</p>
