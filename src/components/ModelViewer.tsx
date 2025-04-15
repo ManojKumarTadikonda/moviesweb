@@ -2,7 +2,7 @@ import { Canvas } from '@react-three/fiber';
 import { OrbitControls, useGLTF, Environment, Stage } from '@react-three/drei';
 
 function Model() {
-  const gltf = useGLTF('/Bigscreen.glb');
+  const gltf = useGLTF('https://raw.githubusercontent.com/ManojKumarTadikonda/3dmodel/main/Bigscreen.glb');
   return <primitive object={gltf.scene} />;
 }
 
