@@ -76,12 +76,12 @@ const MyBookingsPage = () => {
               if (booking.movieName === "Salaar") {
                 imageSrc = "http://res.cloudinary.com/dmdq2yizi/image/upload/v1744650956/Salaar_x1to90.jpg";
               } else if (booking.movieName === "Puspha") {
-                imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651687/UHVzaHBhMl9pYm5id3E=/drilldown";
+                imageSrc = "https://res.cloudinary.com/dmdq2yizi/image/upload/v1744651687/Pushpa2_ibnbwq.jpg";
               } else if (booking.movieName === "Kalki") {
-                imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651688/a2Fsa2lfcXk5M3Np/drilldown";
+                imageSrc = "https://res.cloudinary.com/dmdq2yizi/image/upload/v1744651688/kalki_qy93si.jpg";
               } else {
                 // fallback image if none of the conditions match
-                imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744650952/RGV2YXJhX3pveXBycA==/drilldown";
+                imageSrc = "https://res.cloudinary.com/dmdq2yizi/image/upload/v1744651687/Devara_jgj7ij.jpg";
               }
 
               return (
