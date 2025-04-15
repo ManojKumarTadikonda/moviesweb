@@ -74,7 +74,7 @@ const MyBookingsPage = () => {
               let imageSrc = "";
 
               if (booking.movieName === "Salaar") {
-                imageSrc = "https://asset.cloudinary.com/dmdq2yizi/715a25061aa229684aa25146f98f772b";
+                imageSrc = "http://res.cloudinary.com/dmdq2yizi/image/upload/v1744650956/Salaar_x1to90.jpg";
               } else if (booking.movieName === "Puspha") {
                 imageSrc = "https://res-console.cloudinary.com/dmdq2yizi/thumbnails/v1/image/upload/v1744651687/UHVzaHBhMl9pYm5id3E=/drilldown";
               } else if (booking.movieName === "Kalki") {
